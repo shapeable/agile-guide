@@ -14,5 +14,19 @@ The old linear method of software development deals with change poorly. A key co
 ### Define the Problem, not the Solution
 First, define the actual problem. Rather than prescribing a solution, share as much as possible your understanding of the problem your agency is trying to solve.  This could be:
 - CA residents are taking too long to fill out
-- we have low engagement on our website
-[TODO]: add more examples 
+- We have low engagement on our website
+- Our users do not complete the process on time 
+- Our users' experience with the site is poor rated
+
+### Define metrics, not releases 
+
+### Explain your current solution as a process 
+
+### Provide dates 
+
+### Describe the policies you HAVE to follow as CONSTRAINS 
+
+### Allow for an open proposal with diagrams 
+
+
+
